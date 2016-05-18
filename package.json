@@ -11,9 +11,10 @@
     "url": "https://github.com/UKHomeOffice/hof.git"
   },
   "scripts": {
-    "test": "echo 'Error: no test specified'",
+    "test": "npm run snyk",
     "lint": "eslint .",
-    "style": "jscs index.js --config=./.jscsrc.json"
+    "style": "jscs index.js --config=./.jscsrc.json",
+    "snyk": "snyk test"
   },
   "keywords": [
     "forms",
@@ -42,7 +43,8 @@
     "eslint-plugin-mocha": "^0.2.2",
     "eslint-plugin-one-variable-per-var": "0.0.3",
     "jscs": "^1.13.1",
-    "pre-commit": "^1.0.10"
+    "pre-commit": "^1.0.10",
+    "snyk": "^1.14.3"
   },
   "pre-commit": [
     "lint",
