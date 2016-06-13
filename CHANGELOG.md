@@ -1,6 +1,12 @@
 # HOF ChangeLog
 
-## 2016-06-2, Versions 8.0.0 (Stable) @joefitter
+# 2016-06-13, Version 9.0.0 (Stable) @joefitter
+* **hmpo-form-wizard**: Updated to 4.4.2
+* **hof-controllers**: Updated to 2.0.0
+* **hof-middleware**: Updated 0.2.0
+* **eslint-config-homeoffice**: Installed 0.2.0
+
+## 2016-06-2, Version 8.0.0 (Stable) @joefitter
 * **hmpo-template-mixins**: Upgraded to 4.2.0
 * **hmpo-frontend-toolkit**: Upgraded to 4.2.0
 * **hmpo-model**: Upgraded to 0.6.0
