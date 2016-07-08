@@ -30,7 +30,7 @@
     "hmpo-form-wizard": "^4.3.0",
     "hmpo-frontend-toolkit": "^4.2.0",
     "hmpo-govuk-template": "0.0.3",
-    "hmpo-model": "^0.6.0",
+    "hmpo-model": "^0.7.0",
     "hmpo-template-mixins": "^4.2.0",
     "hof-controllers": "^1.0.1",
     "hof-middleware": "0.1.1",
